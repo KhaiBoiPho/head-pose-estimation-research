@@ -40,5 +40,5 @@ For training logs, benchmarks, or further technical details, please contact:
 
 ### 📎 Resources
 
-- [Download PDF Report](assets/images/Internship_Khai_final.pdf)  
-- [Download Final Presentation Slides](assets/images/Final_Report_final.pdf)
+- [Download PDF Report](documents/Internship_Khai_final.pdf)  
+- [Download Final Presentation Slides](documents/Final_Report_final.pdf)
