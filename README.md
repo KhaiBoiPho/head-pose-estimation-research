@@ -71,4 +71,4 @@ For training logs, benchmarks, or further technical details, please contact:
 ---
 ### TEEP scholarship
 
-![TEEP](documents/2_CCU.png)
+![TEEP](documents/22_CCU.png)
