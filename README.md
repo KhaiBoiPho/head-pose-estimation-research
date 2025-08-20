@@ -54,16 +54,21 @@ To enhance the accuracy of head pose estimation, I focused on improving the **re
 ### Contact & Notes  
 
 For training logs, benchmarks, or further technical details, please contact:  
-📩 [nguyenquangk981@gmail.com](mailto:nguyenquangk981@gmail.com)  
+[nguyenquangk981@gmail.com](mailto:nguyenquangk981@gmail.com)  
 
-⚠️ **Important Note**  
+**Important Note**  
 - This research is a **supportive extension** of the original author’s work and is **not yet published as a paper**.  
 - To protect the confidentiality of the original architecture, I have only included the parts that I directly contributed and improved.  
 - If you have questions, or wish to understand the **original framework in more detail**, please contact me directly via email.  
 
 ---
 
-### 📎 Resources  
+### Resources  
 
 - [Download PDF Report](documents/Internship_Khai_Slide_version.pdf)  
 - [Download Final Presentation Slides](documents/Final_Report_version.pdf)  
+
+---
+### TEEP scholarship
+
+![TEEP](documents/2_CCU.png)
