@@ -69,6 +69,6 @@ For training logs, benchmarks, or further technical details, please contact:
 - [Download Final Presentation Slides](documents/Final_Report_version.pdf)  
 
 ---
-### TEEP scholarship
+### TEEP Report
 
-![TEEP](documents/22_CCU.png)
+![TEEP](documents/download.png)
